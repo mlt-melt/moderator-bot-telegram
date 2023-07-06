@@ -7,7 +7,7 @@ The bot performs moderation of text messages in chats and provides the following
 
 - Filtering of forbidden words: You can add forbidden words in both English and Russian languages. The bot will automatically delete messages containing these words. Symbol replacement is also supported, such as replacing "S" with "$" and "a" with "@" (about 500 symbols supported).
 
-- Restriction on sending specific types of content: You can prohibit the sending of audio, photos, voice messages, videos, documents, text, geolocation, contacts, stickers, and polls. The bot will block attempts to send restricted content.
+- Restriction on sending specific types of content: You can prohibit the sending of audio, photos, voice messages, videos, documents, text, geolocation, contacts, stickers, polls,animations, games, video notes, dices and venues. The bot will block attempts to send restricted content.
 
 ### Punishments
 The bot also allows you to configure punishments for different types of violations. You can choose the following punishment options:
